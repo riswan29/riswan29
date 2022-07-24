@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua! 
+
+Perkenalkan nama saya **Fransikus Riswan Indra Simbolon**.\
+
+Saya seorang **Mahasiswa** di [UNEFA](https://web.unefa.ac.id//).\
+Saya tertarik dalam bidang Machine Learning, AI, Web Developer
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wan29) ku ya.
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riswan29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riswan29&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
