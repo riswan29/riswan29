@@ -6,9 +6,9 @@ I am interested in Machine Learning, AI, Web Dev
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Tensorflow-%23FA7343?logo=tensorflow&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Tensorflow-EF5B0C?logo=tensorflow&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/python-%230095D5.svg?logo=python&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Jupyter Notebook-000000.svg?logo=jupyter&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Jupyter Notebook-EF5B0C.svg?logo=jupyter&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Javacript-yellow.svg?logo=javascript&logoColor=white"/>
   <br><br>
 
