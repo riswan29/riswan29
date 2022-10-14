@@ -26,7 +26,6 @@ I am interested in Machine Learning, AI, Web Dev
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://www.instagram.com/r.i.s.w.a.n_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     <a href="https://www.facebook.com/profile.php?id=100031411395058" target="_blank">
     <img alt="facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
