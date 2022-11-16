@@ -10,6 +10,7 @@ I am interested in Machine Learning, AI, Web Dev
   <img align="left" src="https://img.shields.io/badge/python-%230095D5.svg?logo=python&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Jupyter Notebook-EF5B0C.svg?logo=jupyter&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Javacript-yellow.svg?logo=javascript&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/PHP-yellow.svg?logo=javascript&logoColor=white"/>
   <br><br>
 
 ### Github Statistic
