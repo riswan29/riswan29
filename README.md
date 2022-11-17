@@ -19,9 +19,8 @@
 <p>Salam kenal yaaaa。。。</p>
 
 <div align="center">
-<a href="https://github.com/riswan29/object-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riswan29&repo=object-detection
-&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/riswan29/computer-vision">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=riswan29&repo=computer-vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/riswan29/NLP">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=riswan29&repo=NLP&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
