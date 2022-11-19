@@ -41,7 +41,7 @@
 <img align="center" src="https://img.shields.io/badge/python-%230095D5.svg?logo=python&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Javacript-yellow.svg?logo=javascript&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Flask-%232724.svg?logo=flask&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Django-%232724.svg?logo=django&logoColor=white"/>
 
 🧰 Tools:
 <br>
