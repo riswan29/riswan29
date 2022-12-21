@@ -21,6 +21,10 @@ I am interested in Machine Learning, AI, Web Dev
 </a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riswan29&label=Profile%20views&color=0e75b6&style=flat" alt="riswan29" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefhosni" alt="youssefhosni" /></a> </p>
+
 ### 🔍 You Can Find Me at 
 <p> 
   <a href="https://www.linkedin.com/in/wan29/" target="_blank">
