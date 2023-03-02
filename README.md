@@ -20,6 +20,7 @@ I am interested in Machine Learning, AI, Web Dev
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riswan29&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+[![An image of @riswan29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riswan29)](https://holopin.io/@riswan29)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riswan29&label=Profile%20views&color=0e75b6&style=flat" alt="riswan29" /> </p>
 
