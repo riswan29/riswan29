@@ -19,7 +19,7 @@ I am interested in Machine Learning, AI, Web Dev
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riswan29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riswan29&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riswan29&label=Profile%20views&color=0e75b6&style=flat" alt="riswan29" /> </p>
 
