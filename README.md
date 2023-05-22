@@ -37,22 +37,3 @@ I am interested in Machine Learning, AI, Web Dev
   </a> 
 </p>
 
-name: Waka Readme
-
-on:
-  workflow_dispatch: # for manual workflow trigger
-  schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
-
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_d136bb6d-bbc7-436b-8c01-df2e10c1a9ed }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
