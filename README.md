@@ -22,6 +22,7 @@ I am interested in Machine Learning, AI, Web Dev
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riswan29&label=Profile%20views&color=0e75b6&style=flat" alt="riswan29" /> </p>
+[![wakatime](https://wakatime.com/badge/user/04eb5b5a-63a9-400c-8e11-d6fe06d2cf50.svg)](https://wakatime.com/@04eb5b5a-63a9-400c-8e11-d6fe06d2cf50)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riswan29" alt="riswan29" /></a> </p>
 
