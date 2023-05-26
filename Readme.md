@@ -6,13 +6,7 @@
 </h1>
 
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&riswan29&layout=compact&&theme=default&link="https://www.github.com/riswan29/") 
-<br>
-
-
-
-
-<div align="center">[![wakatime](https://wakatime.com/badge/user/04eb5b5a-63a9-400c-8e11-d6fe06d2cf50.svg)](https://wakatime.com/@04eb5b5a-63a9-400c-8e11-d6fe06d2cf50)</div>
+<a href="https://wakatime.com/@04eb5b5a-63a9-400c-8e11-d6fe06d2cf50"><img src="https://wakatime.com/badge/user/04eb5b5a-63a9-400c-8e11-d6fe06d2cf50.svg" alt="Total time coded since Dec 14 2020" /></a>
 
 
 #  🙋 Hello
