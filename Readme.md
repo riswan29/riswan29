@@ -11,7 +11,7 @@
 
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center">[![wakatime](https://wakatime.com/badge/user/04eb5b5a-63a9-400c-8e11-d6fe06d2cf50.svg)](https://wakatime.com/@04eb5b5a-63a9-400c-8e11-d6fe06d2cf50)</div>
 
 
 #  🙋 Hello
