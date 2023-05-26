@@ -6,8 +6,9 @@
 </h1>
 
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<center>Time Codding : 
 <a href="https://wakatime.com/@04eb5b5a-63a9-400c-8e11-d6fe06d2cf50"><img src="https://wakatime.com/badge/user/04eb5b5a-63a9-400c-8e11-d6fe06d2cf50.svg" alt="Total time coded since Dec 14 2020" /></a>
-
+</center>
 
 #  🙋 Hello
 
