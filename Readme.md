@@ -6,6 +6,7 @@
 </h1>
 
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&riswan29&layout=compact&&theme=default&link="https://www.github.com/riswan29/") 
 <br>
 
 
