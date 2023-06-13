@@ -7,7 +7,7 @@
 
 ### Hello ,World! 👋
 
-Hi, I'm Riswan 😉, 22 years and **IT Student** 👨🏻‍💻 from Indonesia 🇲🇨. I'm a student and junior developer, and I love programming with **Python**. I'm passionate about **Machine Learning**, **Deep Learning**, **Data Science** and **Web Development**. Currently, I want to collaborate on an open source project. And I am also a graduate of <a href='https://drive.google.com/file/d/1kTuqTDPsrqYYO4eAO--z8RpGMjCoLmLB/view?usp=drive_link'>**Bangkit Academy 2022**</a>😉
+Hi, I'm Riswan 😉, 22 years and **IT Student** 👨🏻‍💻 from Indonesia 🇲🇨. I'm a student and junior developer, and I love programming with **Python**. I'm passionate about **Machine Learning**, **Deep Learning**, **Data Science** and **Web Development**. Currently, I want to collaborate on an open source project. And I am also a graduate of <a href='https://drive.google.com/file/d/1kTuqTDPsrqYYO4eAO--z8RpGMjCoLmLB/view?usp=sharing'>**Bangkit Academy 2022**</a>😉
 </br>
 </br>
 </br>
