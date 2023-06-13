@@ -30,6 +30,13 @@ Hi, I'm Riswan 😉, 22 years and **IT Student** 👨🏻‍💻 from Indonesia 
 * 💬 Ask me about anything and I want to answer.
 * 📫 Please contact me via wandra290401@gmail.com
 
+----------------
+ <p align="center">
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riswan29&layout=compact&langs_count=8&theme=dracula"/>
+
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riswan29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </P>
+
 
 
 <h2 align="left">Connect With Me:</h2>
@@ -50,18 +57,11 @@ Hi, I'm Riswan 😉, 22 years and **IT Student** 👨🏻‍💻 from Indonesia 
 
 
  <br>
- <br>
- <p align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riswan29&layout=compact&langs_count=8&theme=dracula"/>
-
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riswan29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </P><br>
 
 
 
 
 
-----------------
 
 <div align=center>
 
