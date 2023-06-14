@@ -20,6 +20,9 @@ Hi, I'm Riswan 😉, 22 years and **IT Student** 👨🏻‍💻 from Indonesia 
 **Tools :** Git, Github, VS Code, Linux, Windows
 
 <a href="https://wakatime.com/@04eb5b5a-63a9-400c-8e11-d6fe06d2cf50"><img src="https://wakatime.com/badge/user/04eb5b5a-63a9-400c-8e11-d6fe06d2cf50.svg" alt="Total time coded since Dec 14 2020" /></a>
+ <a href="https://github.com/riswan29">
+    <img src="https://komarev.com/ghpvc/?username=riswan29&color=blue&style=flat)" />
+  </a>
 <br>
 **Current Status Quo:**
 ----
