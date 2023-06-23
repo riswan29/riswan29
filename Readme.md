@@ -17,7 +17,7 @@ Hi, I'm Riswan 😉, 22 years and **IT Student** 👨🏻‍💻 from Indonesia 
 
 **Skills :** Python, Php, JavaScript
 </br>
-**Tools :** Git, Github, VS Code, Linux, Windows
+**Tools :** Git, Github, Vim, VS Code, Linux, Windows
 
 <a href="https://wakatime.com/@04eb5b5a-63a9-400c-8e11-d6fe06d2cf50"><img src="https://wakatime.com/badge/user/04eb5b5a-63a9-400c-8e11-d6fe06d2cf50.svg" alt="Total time coded since Dec 14 2020" /></a>
  <a href="https://github.com/riswan29">
