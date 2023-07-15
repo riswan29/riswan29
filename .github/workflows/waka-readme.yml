@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WANNN }}
           SHOW_TITLE: true
-          BLOCKS: -> ░▒▓█
+          BLOCKS: -> 00
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
